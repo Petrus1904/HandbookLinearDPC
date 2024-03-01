@@ -40,14 +40,14 @@ P.C.N. Verheijen, V. Breschi and M. Lazar. (2023). *"Handbook of linear data-dri
 **Bibtex:**
 ```
 @article{HandbookDPC:Verheijen2023,
-title = {Handbook of linear data-driven predictive control: Theory, implementation and design},
-journal = {Annual Reviews in Control},
-volume = {56},
-pages = {100914},
-year = {2023},
-issn = {1367-5788},
-doi = {https://doi.org/10.1016/j.arcontrol.2023.100914},
-author = {P.C.N. Verheijen and V. Breschi and M. Lazar},
+  title = {Handbook of linear data-driven predictive control: Theory, implementation and design},
+  journal = {Annual Reviews in Control},
+  volume = {56},
+  pages = {100914},
+  year = {2023},
+  issn = {1367-5788},
+  doi = {https://doi.org/10.1016/j.arcontrol.2023.100914},
+  author = {P.C.N. Verheijen and V. Breschi and M. Lazar},
 }
 ```
 
