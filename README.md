@@ -28,7 +28,7 @@ All of the above mentioned scripts are standalone runs of the same control probl
 * `GetDataFourTankModel` -- Constructs system and experiment data (including the Hankel matrices) from the Four Tank model
 * `GetDataPlaneModel` -- Constructs system and experiment data (including the Hankel matrices) from the Plane model
 * `GetMarkovMatrix` -- Only used in the MPC scripts to build prediction matrices from state-space
-* `HankeRausRegularization` -- A function that can be used to plot the Hanke-Raus regularization score. This score can be used to select most suitable hyperparameters in DeePC, γ-DDPC and GDPC. The implementation is commmented in the corresponding run scripts.
+* `HankeRausRegularization` -- A function that can be used to plot the Hanke-Raus regularization score. This score can be used to select most suitable hyperparameters in DeePC, γ-DDPC and GDPC. The implementation is commented in the corresponding run scripts.
 
 Use `help [function_name]` to get detailed information on how to use the functions.
 
